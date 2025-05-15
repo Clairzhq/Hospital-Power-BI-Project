@@ -1,4 +1,4 @@
-# Healthcare Dynamics -In depth Analysis 
+# Healthcare Dynamics -In Depth Analysis 
 
 This Power BI project is designed to provide a comprehensive data visualization for healthcare. The primary objectives of this project is to offer interactive and insightful tools for hospital management team to track and analyze various aspects of patient visits, facility availability, revenue generated across different age groups, appointment, waiting time and feedback on medical prescriptions  and medical services.
 
